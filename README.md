@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Appium,WebDriverIO**
 
-- 💬 Ask me about **Javascript,Selenium,Cypress,Cucumber,RestAssured**
+- 💬 Ask me about **Selenium,Cypress,Cucumber,RestAssured**
 
 - 📫 How to reach me **mahithakur47363@gmail.com**
 
