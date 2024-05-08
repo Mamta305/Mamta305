@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Selenium,Cypress,Cucumber,RestAssured**
 
-- 📫 How to reach me **mahithakur47363@gmail.com**
+- 📫 How to reach me **mamtathakur47363@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cuvtynC-vPCKYBG2mFs-dEjJs2ZOz80f/view?usp=sharing](https://drive.google.com/file/d/1cuvtynC-vPCKYBG2mFs-dEjJs2ZOz80f/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1h6N5ek75F0QqNgog6NhpoThpphPyttM5/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
